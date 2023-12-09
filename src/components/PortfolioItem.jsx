@@ -1,6 +1,6 @@
 import React from "react";
 
-function PortfolioItem({ title, imgURL, stack, link }) {
+function PortfolioItem({ title, imgURL, stack, link, alternate }) {
   return (
     <a
       className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden"
@@ -9,7 +9,7 @@ function PortfolioItem({ title, imgURL, stack, link }) {
     >
       <img
         src={imgURL}
-        alt="portfolio"
+        alt={alternate}
         className="w-full h-36 md:h-48 object-cover cursor-pointer"
       />
       <div className="w-full p-4">
