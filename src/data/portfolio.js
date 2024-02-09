@@ -1,5 +1,12 @@
 export default [
   {
+    title: "Shopping Cart",
+    imgURL: "/assets/shopping-cart.png",
+    stack: ["React.js", "TailwindCSS", "DaisyUI"],
+    link: "https://effervescent-moxie-581805.netlify.app/",
+    alternate: "React.js Shopping Cart portoflio image cover",
+  },
+  {
     title: "Wedding Invitation",
     imgURL: "/assets/wedding-invitatiton.png",
     stack: ["HTML", "Bootstrap", "Javascript"],
