@@ -1,5 +1,12 @@
 export default [
   {
+    title: "flashNews",
+    imgURL: "/assets/flashnews.jpg",
+    stack: ["React.js", "Redux", "TailwindCSS"],
+    link: "https://flashnews-three.vercel.app/",
+    alternate: "flashNews online news website portfolio image cover",
+  },
+  {
     title: "Ecofume Landing Page",
     imgURL: "/assets/ecofume-min.jpg",
     stack: ["Webflow", "Figma"],
@@ -9,7 +16,7 @@ export default [
   {
     title: "Shopping Cart",
     imgURL: "/assets/shopping-cart-min.jpg",
-    stack: ["React.js", "TailwindCSS", "DaisyUI"],
+    stack: ["React.js", "TailwindCSS", "daisyUI"],
     link: "https://endearing-monstera-179b75.netlify.app/",
     alternate: "React.js Shopping Cart portoflio image cover",
   },
@@ -26,13 +33,6 @@ export default [
     stack: ["React.js", "TailwindCSS", "Vite"],
     link: "https://helpful-bienenstitch-3bce20.netlify.app/",
     alternate: "Notes App portoflio image cover",
-  },
-  {
-    title: "Bookshelf App",
-    imgURL: "/assets/bookshelf-app-min.jpg",
-    stack: ["HTML", "CSS", "Javascript"],
-    link: "https://zesty-halva-b21bde.netlify.app/",
-    alternate: "Bookshelf App portoflio image cover",
   },
   {
     title: "Company Profile",
