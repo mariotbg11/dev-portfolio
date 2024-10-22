@@ -17,7 +17,7 @@ export default [
     title: "Shopping Cart",
     imgURL: "/assets/shopping-cart-min.jpg",
     stack: ["React.js", "TailwindCSS", "daisyUI"],
-    link: "https://endearing-monstera-179b75.netlify.app/",
+    link: "https://shopcartrjs.netlify.app/",
     alternate: "React.js Shopping Cart portoflio image cover",
   },
   {
