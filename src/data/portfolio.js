@@ -1,5 +1,12 @@
 export default [
   {
+    title: "YummiFy",
+    imgURL: "/assets/YummiFy.jpg",
+    stack: ["React.js", "Redux", "TailwindCSS"],
+    link: "https://yummify.vercel.app/",
+    alternate: "YummiFy recipe website image cover",
+  },
+  {
     title: "flashNews",
     imgURL: "/assets/flashnews.jpg",
     stack: ["React.js", "Redux", "TailwindCSS"],
